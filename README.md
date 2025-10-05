@@ -1,6 +1,6 @@
 # Webinar Engagement Booster Automation System
 
-This project automates the entire webinar engagement process—from registration to feedback—using Google Workspace, Zapier workflows, and third-party tools.
+This project automates the entire webinar engagement process—from registration to feedback—using Google Workspace, n8n ,Zapier workflows, and third-party tools.
 
 ## Features
 
@@ -22,6 +22,7 @@ This project automates the entire webinar engagement process—from registration
 - Google Forms & Sheets
 - Google Slides & Slido Add-on
 - Zapier automation platform
+- n8n workflow
 - Gmail for email delivery
 - Certifier for digital certificate creation
 - QR code generator for attendance check-ins
@@ -30,11 +31,12 @@ This project automates the entire webinar engagement process—from registration
 
 1. Setup Google Forms for registration and attendance tracking.
 2. Create Google Sheets for storing responses and triggers.
-3. Use Zapier to automate:
+3. Use  n8n to automate:
    - Reminder emails
    - Attendance verification
-   - Certificate generation and emailing
    - Feedback form distribution
+4. Use Zapier to
+    - Certificate generation and emailing
 4. Design interactive webinar slides using Slido.
 5. Generate QR codes for attendance form access.
 
